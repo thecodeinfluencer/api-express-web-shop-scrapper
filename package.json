@@ -4,7 +4,8 @@
   "description": "Web Scraper",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "nodemon": "node index.js"
   },
   "author": "Mark Aloo",
   "license": "ISC",
